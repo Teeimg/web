@@ -1,0 +1,21 @@
+body{
+	background-color: rgba(255, 230, 230, 0.5);
+	padding-top: 75px;
+}
+.jumbotron{
+	color: #fff;
+	background: #33001a;
+}
+.lg-fg{
+	width: 15%;
+}
+h1, h2{
+	font-family: 'Reem Kufi', sans-serif;
+}
+.navbar-default {
+  background-color: #33001a;
+  border-color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
